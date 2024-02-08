@@ -1,0 +1,13 @@
+<html>
+<body>
+
+<<<<<<< HEAD
+<h1>Primo testo modificato</h1>
+=======
+<h1>Primo testo modifico ancora</h1>
+>>>>>>> feature-3
+<h2>Secondo testo</h2>
+<h2>Terzo testo</h2>
+
+</body>
+</html>
